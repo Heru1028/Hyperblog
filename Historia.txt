@@ -5,3 +5,4 @@ Actualmente esta empezando su camino para ser un experto en Git y GitHub.
 Hoy hablaremos de su vida y obra maestra.
 Hoy aprendera de que sirve el rebase, sigue estudiando con muchas ganas de aprender y se esfuerza por sus metas.
 Experimento 1
+Experimento 2
