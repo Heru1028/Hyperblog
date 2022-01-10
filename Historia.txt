@@ -3,3 +3,4 @@ Tiene 24 años y su historia esta a punto de empezar.
 Actualmente esta empezando su camino para ser un experto en Git y GitHub.
 
 Hoy hablaremos de su vida y obra maestra.
+Hoy aprendera de que sirve el rebase, sigue estudiando con muchas ganas de aprender y se esfuerza por sus metas.
